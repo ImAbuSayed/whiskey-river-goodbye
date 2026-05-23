@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whiskey-river-goodbye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Whiskey River Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whiskey-river-goodbye/) |
+| **Get License** | [Get License For Whiskey River Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whiskey-river-goodbye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pouring out my glass, I don't need it tonight
+> Your honey-sweet lips are my only vice
+> We're locking the door, letting go of the time
+> Giving this whiskey river a sweet goodbye
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
