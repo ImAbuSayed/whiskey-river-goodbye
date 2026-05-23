@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Whiskey River Goodbye
+
+This log tracks the cryptographic history and versioning for the song **Whiskey River Goodbye** (whiskey-river-goodbye).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T14:58:30.797183 | `v1` | `f5d5cc0019f409e64d9422145b2dac846f4479ab3376b61821c68e7e601427af` | `a8712c8e823ee064995b83e9c0c65aed322dabeb7bfb9e395616850e63e9f9f3` | `2026-05-23_whiskey-river-goodbye-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
